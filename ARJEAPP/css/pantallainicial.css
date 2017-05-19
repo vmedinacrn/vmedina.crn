@@ -59,7 +59,9 @@ body{
 
 }
 
-
+a{
+	text-decoration-line: none;
+}
 
 
 /*Estil per una telèfon Android*/
