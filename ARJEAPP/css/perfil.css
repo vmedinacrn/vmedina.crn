@@ -33,10 +33,6 @@
 	background-image: url(../img/menu.png); 
 }
 
-
-
-
-
 #barra .menu nav{
 	width: 40%;
 	height: 100%;
@@ -72,11 +68,6 @@ a:hover{
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-
-
-
-
-
 
 #barra .editar{
 	width:33px;
@@ -250,7 +241,7 @@ a{
 
 
 /*Estil per una telèfon Android*/
-@media only screen and (min-width: 400px) and (max-width: 512px) and (orientation: portrait){
+@media only screen and (min-width: 300px) and (max-width: 1000px) and (orientation: portrait){
 
 	body{
 	font-family:"Poppins";
